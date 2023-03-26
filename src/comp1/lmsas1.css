@@ -1,0 +1,14 @@
+
+.button{
+    color: #057be3;
+    border: none;
+    margin-right: 20px;
+    margin-left: 10px;
+    background-color: white;
+}
+.description{
+    color: grey;
+}
+.content{
+    margin-left: 50%;
+}

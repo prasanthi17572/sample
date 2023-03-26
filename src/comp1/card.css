@@ -1,0 +1,12 @@
+.pras{
+    display: inline-flex;
+  }
+ .content{
+     text-align: left;
+ }
+ .card{
+ border:none;
+ margin-left: 10px;   
+  margin-bottom:25px ;
+ }
+  

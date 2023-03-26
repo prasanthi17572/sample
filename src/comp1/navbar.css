@@ -1,0 +1,41 @@
+.navbar{
+    position:fixed;
+    height:55px;
+    margin-top: 50px;
+    width:100%;
+    background:#20232a;
+    display: flex;
+    align-items: center;
+}
+.img{
+    width: 40px;
+    height: 40px;
+    margin-left: 40px;
+}
+.react-icon{
+    color: rgb(74, 193, 240);
+    margin-right: 60px;
+    font-size: 20px;
+}
+.navbar li a{
+    text-decoration: none;
+    font-size: 16px;
+    font-family:  Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color:white;
+    margin:0px 50px 0px
+
+}
+.navbar li a:hover{
+    color:skyblue;
+}
+.navbar i{
+    font-size: 16px;
+    font-family:  Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    color:rgb(33, 169, 173);
+
+}
+
+
+
